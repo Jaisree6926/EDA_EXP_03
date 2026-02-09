@@ -126,7 +126,15 @@ plt.show()
 
 1)PM2.5 and NO₂ show a strong positive correlation, suggesting that both pollutants increase together, likely due to vehicle and industrial emissions.
 
-2)  # write other insights
+2)PM2.5 and PM10 exhibit a strong positive correlation, indicating that fine and coarse particulate matter often originate from similar sources such as road dust, construction activities, and combustion processes.
+
+3)NO₂ shows a moderate correlation with PM10, suggesting that traffic emissions contribute not only to gaseous pollutants but also to particulate matter levels.
+
+4)SO₂ has a weaker correlation with particulate pollutants, implying that its sources (such as power plants and certain industrial processes) are relatively independent compared to traffic-related emissions.
+
+5)CO demonstrates a positive association with NO₂, reinforcing the role of incomplete combustion from vehicles as a common emission source.
+
+6)O₃ shows a weak or negative correlation with primary pollutants, which can be attributed to its secondary formation through photochemical reactions rather than direct emission.
 
 **Result**
 
